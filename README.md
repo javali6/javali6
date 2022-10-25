@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miłosz</h1>
-<h3 align="center">Computer science student at BYdgoszcz University of Science and Technology</h3>
+<h3 align="center">Computer science student at Bydgoszcz University of Science and Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javali6&label=Profile%20views&color=0e75b6&style=flat" alt="javali6" /> </p>
 

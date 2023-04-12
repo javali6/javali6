@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/javali62" target="blank"><img src="https://img.shields.io/twitter/follow/javali62?logo=twitter&style=for-the-badge" alt="javali62" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA, OpenCV, JavaFX**
+- 🌱 I’m currently learning **JAVA, JavaFX, Spring, C#, Unity**
 
 - 📫 How to reach me **miloszgmerek6@gmail.com**
 

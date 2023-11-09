@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Miłosz</h1>
 <h3 align="center">Computer science student at Bydgoszcz University of Science and Technology</h3>
 
-
-
-- 📫 How to reach me **miloszgmerek6@gmail.com**
-- Future Plans:   
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<h4>I am currently gaining knowledge in the field of artificial intelligence and machine learning, I also work professionally as a manual tester in one of the largest telecommunications company in the world</h4>
 
 
 <h3 align="left">Languages and Tools that I have worked with:</h3>

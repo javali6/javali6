@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Miłosz</h1>
 <h3 align="center">Computer science student at Bydgoszcz University of Science and Technology</h3>
 
-<h4>I am currently gaining knowledge in the field of artificial intelligence and machine learning, I also work professionally as a manual tester in one of the largest telecommunications company in the world</h4>
+<h4>I am currently gaining knowledge in the field of artificial intelligence and machine learning, I also work professionally as a automation tester in one of the largest telecommunications company in the world</h4>
 
 
 <h3 align="left">Languages and Tools that I have worked with:</h3>
